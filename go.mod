@@ -53,7 +53,7 @@ require (
 	github.com/envoyproxy/protoc-gen-validate v0.3.0-java // indirect
 	github.com/felixge/fgprof v0.9.3 // indirect
 	github.com/getsentry/sentry-go v0.12.0 // indirect
-	github.com/go-chi/chi/v5 v5.0.10 // indirect
+	github.com/go-chi/chi/v5 v5.2.2 // indirect
 	github.com/go-enry/go-enry/v2 v2.7.2 // indirect
 	github.com/go-enry/go-oniguruma v1.2.1 // indirect
 	github.com/go-logr/logr v1.2.4 // indirect
